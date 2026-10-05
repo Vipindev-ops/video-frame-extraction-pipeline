@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning **Kubernetes, Terraform & AWS**
 - 👯 I'm looking to collaborate on **Open Source DevOps tools**
 - 💬 Ask me about **Docker, Jenkins, CI/CD, Linux, Cloud**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **vipintomar823@gmail.com**
 - ⚡ Fun fact: **I automate things even when manual is faster, just for fun!**
 
 ---
